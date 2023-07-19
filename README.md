@@ -1,5 +1,3 @@
-# ecf_projet_garage
-Projet d'évaluation dans la mise en place d'une plateforme de vente de voitures.
 # Garage Management System
 
 Garage Management System est une application web 
